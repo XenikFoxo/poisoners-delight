@@ -1,0 +1,11 @@
+{
+  "id": "xfox-poisoners-delight",
+  "title": "Poisoners Delight",
+  "description": "Not good for NPC health.",
+  "authors": [
+    {
+    "name": "XeniFox"
+    }
+  ],
+  "version": "0.0.1"
+}
