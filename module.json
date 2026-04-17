@@ -4,5 +4,9 @@
   "description": "Not good for NPC health.",
   "authors": [{"name": "XeniFox"}],
   "scripts": ["scripts/addWeaponProperties"],
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  }
 }
